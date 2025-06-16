@@ -20,13 +20,6 @@ Personal Finance Tracker is a web application that helps you manage your finance
 - CSS
 - JavaScript
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 ## Acknowledgements
@@ -34,8 +27,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [Feather Icons](https://feathericons.com/) - Icons used in the application
 - [Font Awesome](https://fontawesome.com/) - Icons used in the application
 
-## Contact
-
-For any inquiries or questions, please contact [email protected]
 
 Enjoy managing your finances with Personal Finance Tracker!
